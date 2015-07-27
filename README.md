@@ -18,6 +18,7 @@ This has been a very brief work, about 10 hours more or less, just to fill some 
   <li>On certain situations, a square redraw can overwrite a change level marker between it and one of it's neighbours out of the redrawing cycle. This need to be fixed.</li>
   <li>When loading a background image, it resizes to fit map dimensions... I think that probably would be better if map dimensions resizes to background image's size.</li>
   <li>Testing, testing, testing... much more testing is needed to ensure consistent behaviour and stability.</li>
+  <li>There are some dirty things out there on the code that could be refactored to a lot prettier version, on particular the code that draws elevation change points.
 </ul>
 
 
