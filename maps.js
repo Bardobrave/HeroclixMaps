@@ -2,7 +2,7 @@ function Board(cellSize, numHCells, numVCells) {
     this.cellSize = cellSize;
     this.numHCells = numHCells;
     this.numVCells = numVCells;
-    this.Board = document.getElementById("board");
+    this.Board = document.getElementById("myBoard");
     this.maxWidth = this.Board.clientWidth;
     this.currentTerrainType = "";
     this.currentElevation = 2;
