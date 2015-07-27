@@ -17,6 +17,7 @@ This has been a very brief work, about 10 hours more or less, just to fill some 
   <li>Maps should have a better way to resize than just by changing squares amount and size. Also, screen width shouldn't be a hard limit for map width, although while the system don't include a way to directly resize proportionally the whole map to final printing size.</li>
   <li>On certain situations, a square redraw can overwrite a change level marker between it and one of it's neighbours out of the redrawing cycle. This need to be fixed.</li>
   <li>When loading a background image, it resizes to fit map dimensions... I think that probably would be better if map dimensions resizes to background image's size.</li>
+  <li>Further work to made the editor fit in different resolutions, and to swiftly change when resizing browser's window size is needed.
   <li>Testing, testing, testing... much more testing is needed to ensure consistent behaviour and stability.</li>
   <li>There are some dirty things out there on the code that could be refactored to a lot prettier version, on particular the code that draws elevation change points.
 </ul>
