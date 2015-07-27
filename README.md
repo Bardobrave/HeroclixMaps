@@ -21,4 +21,4 @@ This has been a very brief work, about 10 hours more or less, just to fill some 
   <li>There are some dirty things out there on the code that could be refactored to a lot prettier version, on particular the code that draws elevation change points.
 </ul>
 
-
+Here you have a <a href="https://jsfiddle.net/bardobrave/kojLmojz/embedded/result/">jsFiddle</a> where you can see it work
