@@ -12,7 +12,7 @@ This is a first approach to a board game editor. Nowadays I'm quite hooked on He
 </ul>
 
 #To Do list.
-This has been a very brief work, about 10 hours more or less, just to fill some iddle time between "serious" works and test some ideas. A this point there are several functionalities that should be added, bugs that need to be fixed, for example:
+This has been a very brief work, about 10 hours more or less, just to fill some iddle time between "serious" works and test some ideas. A this point there are several functionalities that should be added, and bugs that need to be fixed, for example:
 <ul>
   <li>Maps should have a better way to resize than just by changing squares amount and size. Also, screen width shouldn't be a hard limit for map width, although while the system don't include a way to directly resize proportionally the whole map to final printing size.</li>
   <li>On certain situations, a square redraw can overwrite a change level marker between it and one of it's neighbours out of the redrawing cycle. This need to be fixed.</li>
